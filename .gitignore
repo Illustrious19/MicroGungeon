@@ -1,0 +1,17 @@
+Library/
+# 忽略构建输出
+build/
+dist/
+out/
+
+# 忽略临时文件
+tmp/
+temp/
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
+
+# 忽略日志
+logs/
+*.log
